@@ -60,7 +60,7 @@ Entrada: Você receberá um valor inteiro N (0 < N < 1000000).
 
 Saída: Exiba o valor lido e a quantidade mínima de notas de cada tipo necessárias, seguindo o exemplo de saída abaixo. Após cada linha deve ser imprimido o fim de linha.
 
-# Desafio 5
+### Desafio 5
 
 Desafio: Você deve calcular o consumo médio de um automóvel onde será informada a distância total percorrida (em Km) e o total de combustível consumido (em litros).
 
